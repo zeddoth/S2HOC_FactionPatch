@@ -1,3 +1,5 @@
+![image](https://www.hebergeur-image.fr/uploads/20241203/5919dc1894e3485690388ffcd1ac709bfccc4bca.png)
+
 Patches are back !
 
 Enhance your STALKER 2 experience with the Faction Patch Mod! This mod adds unique patches for all factions in the game, allowing you to collect these emblems as trophies of your journey through the Zone, each patch represents a mark of your allegiance and the battles you've faced.

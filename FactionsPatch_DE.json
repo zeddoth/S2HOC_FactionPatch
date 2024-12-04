@@ -33,5 +33,8 @@
     "sid_CL_items_CL_CorpusPatch_description": "Ein abgerissenes Erkennungsabzeichen. Sammle sie als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
 
     "sid_CL_items_CL_VartaPatch_name": "Wächter-Abzeichen",
-    "sid_CL_items_CL_VartaPatch_description": "Ein abgerissenes Abzeichen der privaten Militärabteilung von SIRCAA, einer weiteren Gruppe von Wissenschaftlern, die die Zone und ihre Anomalien erforschen und nutzen möchten. Diese Gruppe wird von Colonel Korshunov angeführt und fungiert als Wächter des Friedens in der Zone. Die Hauptaufgabe der Wächter ist der Schutz von SIRCAA (dem Wissenschaftlichen Institut für Forschung der Chornobyl-Anomaliezone). Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden."
+    "sid_CL_items_CL_VartaPatch_description": "Ein abgerissenes Abzeichen der privaten Militärabteilung von SIRCAA, einer weiteren Gruppe von Wissenschaftlern, die die Zone und ihre Anomalien erforschen und nutzen möchten. Diese Gruppe wird von Colonel Korshunov angeführt und fungiert als Wächter des Friedens in der Zone. Die Hauptaufgabe der Wächter ist der Schutz von SIRCAA (dem Wissenschaftlichen Institut für Forschung der Chornobyl-Anomaliezone). Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_BanditsPatch_name": "Banditen-Abzeichen",
+    "sid_CL_items_Cl_BanditsPatch_description": ""
 }

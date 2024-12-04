@@ -33,5 +33,8 @@
     "sid_CL_items_CL_CorpusPatch_description": "Un patch d'identification arraché. Collectionnez-les comme trophées pour témoigner de vos combats, ou vendez-les à bon prix pour gagner un peu de réconfort dans ce monde chaotique. ",
     
     "sid_CL_items_CL_VartaPatch_name": "Patch de garde",
-    "sid_CL_items_CL_VartaPatch_description": "Un patch d'identification arraché. Collectionnez-les comme trophées pour témoigner de vos combats, ou vendez-les à bon prix pour gagner un peu de réconfort dans ce monde chaotique. "
+    "sid_CL_items_CL_VartaPatch_description": "Un patch d'identification arraché. Collectionnez-les comme trophées pour témoigner de vos combats, ou vendez-les à bon prix pour gagner un peu de réconfort dans ce monde chaotique. ",
+
+    "sid_CL_items_CL_BanditsPatch_name": "Patch de bandit",
+    "sid_CL_items_CL_BanditsPatch_description": "Un patch d'identification arraché. Collectionnez-les comme trophées pour témoigner de vos combats, ou vendez-les à bon prix pour gagner un peu de réconfort dans ce monde chaotique. ",
     }

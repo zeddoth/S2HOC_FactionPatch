@@ -32,6 +32,9 @@
     "sid_CL_items_CL_CorpusPatch_name": "Corpus Patch",
     "sid_CL_items_CL_CorpusPatch_description": " A torn off identification patch. Collect them as trophies to testify your battles, or sell them for a good price to gain some solace in this chaotic world. ",
     
-    "sid_CL_items_CL_VartaPatch_name": "Guard Patch",
-    "sid_CL_items_CL_VartaPatch_description": " A torn off identification patch. Collect them as trophies to testify your battles, or sell them for a good price to gain some solace in this chaotic world. "
+    "sid_CL_items_CL_VartaPatch_name": "Ward Patch",
+    "sid_CL_items_CL_VartaPatch_description": " A torn off identification patch. Collect them as trophies to testify your battles, or sell them for a good price to gain some solace in this chaotic world. ",
+
+    "sid_CL_items_CL_BanditsPatch_name": "Bandit Patch",
+    "sid_CL_items_CL_BanditsPatch_description": " A torn off identification patch. Collect them as trophies to testify your battles, or sell them for a good price to gain some solace in this chaotic world. "
 }

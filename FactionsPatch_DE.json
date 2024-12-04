@@ -1,0 +1,37 @@
+{
+    "sid_CL_items_CL_ScientistPatch_name": "Wissenschaftler-Abzeichen",
+    "sid_CL_items_CL_ScientistPatch_description": "Ein abgerissenes Abzeichen eines Forscherteams, das die Anomalien und Artefakte der Zone untersucht, um wissenschaftliche Erkenntnisse zu gewinnen und Lösungen für ihre Gefahren zu finden. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_SparkPatch_name": "Spark-Abzeichen",
+    "sid_CL_items_CL_SparkPatch_description": "Ein abgerissenes Abzeichen einer rätselhaften Fraktion, deren Absichten nicht bekannt sind. Sie operieren unabhängig und sind potenziell gefährlich. Angeblich wurde sie von ehemaligen Mitgliedern der Clear-Sky-Fraktion gegründet. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_DutyPatch_name": "Duty-Abzeichen",
+    "sid_CL_items_CL_DutyPatch_description": "Ein abgerissenes Abzeichen einer militärisch strukturierten Fraktion, die die Zone als Bedrohung für die Menschheit ansieht und sich deren Zerstörung verschrieben hat. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_FreedomPatch_name": "Freedom-Abzeichen",
+    "sid_CL_items_CL_FreedomPatch_description": "Ein abgerissenes Abzeichen einer Fraktion, die für die Freigabe der Zone für alle kämpft und sich gegen jede Form von Kontrolle oder Regulierung stellt. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_LonersPatch_name": "Loner-Abzeichen",
+    "sid_CL_items_CL_LonersPatch_description": "Ein abgerissenes Abzeichen eines freien Stalkers, der in der Zone nach Artefakten sucht und sich meist aus den Konflikten der großen Fraktionen heraushält. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_NeutralPatch_name": "Neutrales Abzeichen",
+    "sid_CL_items_CL_NeutralPatch_description": "Ein abgerissenes Erkennungsabzeichen. Sammle sie als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_MercenariesPatch_name": "Söldner-Abzeichen",
+    "sid_CL_items_CL_MercenariesPatch_description": "Ein abgerissenes Abzeichen eines erfahrenen Kämpfers, der im Auftrag unbekannter Klienten handelt und oft geheime, lukrative Missionen verfolgt. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_ISPFPatch_name": "IPSF-Abzeichen",
+    "sid_CL_items_CL_ISPFPatch_description": "Ein abgerissenes Abzeichen einer Sicherheitseinheit, die sich auf die Überwachung der Perimeter der Zone spezialisiert hat. Ihre Hauptaufgabe besteht darin, die Grenzen der Zone zu sichern und sicherzustellen, dass niemand unbefugt eindringt oder entkommt. Sie agieren als eine Art militärische Grenzschutztruppe, um Ordnung und Kontrolle aufrechtzuerhalten. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_MonolithPatch_name": "Monolith-Abzeichen",
+    "sid_CL_items_CL_MonolithPatch_description": "Ein abgerissenes Abzeichen eines Anhängers einer fanatischen Sekte, die von einem angeblich göttlichen Artefakt kontrolliert wird und jeden Außenstehenden als Feind ansieht. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_NoonPatch_name": "Noon-Abzeichen",
+    "sid_CL_items_CL_NoonPatch_description": "Ein abgerissenes Abzeichen einer rätselhaften Gruppierung, die im Verborgenen agiert und eigene, schwer durchschaubare Ziele verfolgt. Man sagt diese Gruppe besteht aus ehemaligen Monolith Kämpfern. Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_CorpusPatch_name": "Corpus-Abzeichen",
+    "sid_CL_items_CL_CorpusPatch_description": "Ein abgerissenes Erkennungsabzeichen. Sammle sie als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden.",
+
+    "sid_CL_items_CL_VartaPatch_name": "Wächter-Abzeichen",
+    "sid_CL_items_CL_VartaPatch_description": "Ein abgerissenes Abzeichen der privaten Militärabteilung von SIRCAA, einer weiteren Gruppe von Wissenschaftlern, die die Zone und ihre Anomalien erforschen und nutzen möchten. Diese Gruppe wird von Colonel Korshunov angeführt und fungiert als Wächter des Friedens in der Zone. Die Hauptaufgabe der Wächter ist der Schutz von SIRCAA (dem Wissenschaftlichen Institut für Forschung der Chornobyl-Anomaliezone). Sammle die Abzeichen als Trophäen, um deine Kämpfe zu bezeugen, oder verkaufe sie zu einem guten Preis, um etwas Trost in dieser chaotischen Welt zu finden."
+}

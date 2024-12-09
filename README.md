@@ -20,6 +20,7 @@ Supported localization :
 -Simplified Chinese
 -Polish
 -Czech
+
 Still need : Portuguese, Arabic, Serbian, Italian, Traditional Chinese, Japanese, Turkish
 
 RWN did a patch for compatibility with other language but is not updated yet : 

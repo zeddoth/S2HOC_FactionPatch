@@ -10,7 +10,20 @@ Add depth to your adventures with a new layer of collectibles and commerce, and 
 
 ## Infos
 
-**Localization is still in progress (FR, EN already made)**
+Supported localization :
+-Ukrainian
+-German
+-English
+-Russian
+-Spanish
+-Korean
+-Simplified Chinese
+-Polish
+-Czech
+Still need : Portuguese, Arabic, Serbian, Italian, Traditional Chinese, Japanese, Turkish
+RWN did a patch for compatibility with other language but is not updated yet : 
+https://www.nexusmods.com/stalker2heartofchornobyl/mods/144
+
 Modified files for compatibility info:
 
     DynamicItemGenerator.cfg

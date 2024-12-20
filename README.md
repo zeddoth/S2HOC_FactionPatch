@@ -29,13 +29,11 @@ Each localization file was renamed relativly to this docs : https://www.nexusmod
 
 Still need : Arabic, Serbian, Turkish
 
-RWN did a patch for compatibility with other language but is not updated yet :
-https://www.nexusmods.com/stalker2heartofchornobyl/mods/144
+We now have new localization files with merge from others mods, do not hesitate to use it for the new update (1.1) and delete the previous localization from your mods folder https://www.nexusmods.com/stalker2heartofchornobyl/mods/921
 
 Modified files for compatibility info:
 
     DynamicItemGenerator.cfg
-    MeshPrototypes.cfg
     Custom ItemPrototype (CL_ItemPrototypes.cfg)
 
 ---

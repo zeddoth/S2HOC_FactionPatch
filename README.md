@@ -18,12 +18,18 @@ Supported localization :
 -Spanish
 -Korean
 -Simplified Chinese
+-Traditional Chinese (have to be checked)
+-Japanese (have to be checked)
 -Polish
 -Czech
+-Italian
+-Portuguese
 
-Still need : Portuguese, Arabic, Serbian, Italian, Traditional Chinese, Japanese, Turkish
+Each localization file was renamed relativly to this docs : https://www.nexusmods.com/stalker2heartofchornobyl/articles/102
 
-RWN did a patch for compatibility with other language but is not updated yet : 
+Still need : Arabic, Serbian, Turkish
+
+RWN did a patch for compatibility with other language but is not updated yet :
 https://www.nexusmods.com/stalker2heartofchornobyl/mods/144
 
 Modified files for compatibility info:
